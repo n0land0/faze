@@ -14,8 +14,8 @@ locations:
   STG2:
     mappingDefinitions:
       "2":
-        database: QA_DEPLOY_PHASES2
-        schema: QA_DEPLOY_PHASE_2
+        database: ""
+        schema: ""
 macros: {}
 packages: {}
 projects: {}
